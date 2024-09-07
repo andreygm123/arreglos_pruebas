@@ -63,8 +63,4 @@ for($j= 0; $j < count($notas); $j++){
  echo "La suma de las notas es: " . $suma . "\n";
  echo "El promedio de las notas es : " . $suma / $cantidadnota . "\n";*/
 
-
-
-
-
 ?>
