@@ -16,3 +16,7 @@ if($nota % 2==0){
     echo"La nota es impar";
 }
 }
+
+$num = readline("Digite la cantidad numeros: ");
+array_push($arreglo,$numeros);
+$numeros = readline("Digite los nuemros :");
